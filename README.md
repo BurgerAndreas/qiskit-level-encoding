@@ -3,13 +3,19 @@ Encode any Hamiltonian matrix as Pauli operators, bosonic and fermionic.  Comes 
 
 # Installation
 git clone ...
+
 run 'example.ipynb'
 
 ### Prerequisites
+
 Python 3.x
+
 qiskit
+
 numpy
+
 matplotlib.pyplot
+
 Jupyter notebook (optional)
 
 # Documentation
